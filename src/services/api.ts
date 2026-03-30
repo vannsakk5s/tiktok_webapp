@@ -1,6 +1,6 @@
 import { ApiPreviewResult } from '../types/tiktok';
 
-const API_BASE = 'https://rolling-date-mtv-clause.trycloudflare.com/api/tiktok';
+const API_BASE = 'https://upgrades-uploaded-thoroughly-download.trycloudflare.com/api/tiktok';
 
 export const fetchPreview = async (url: string): Promise<ApiPreviewResult> => {
   try {
